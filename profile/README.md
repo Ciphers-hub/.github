@@ -16,7 +16,10 @@ We are a passionate group of coding enthusiasts, innovation seekers, and startup
 🔗 Connect with us:
 - [Join our Google Group](mailto:ciphers_community@googlegroups.com)
 - [Follow us on Twitter](#) [Coming Soon!]
-- [Join our Discord server](#)<https://discord.gg/aEDgyAWRjX>
+- [Join our Discord server](<https://discord.gg/aEDgyAWRjX>)
+- [Follow us on Facebook](https://www.facebook.com/groups/1594125844733444/)
+- [Follow us on Instagram](https://www.instagram.com/ciphers_community?igsh=MWEyd3BpM2dnOXVhNQ==)
+- [Follow us on LinkedIn](https://www.linkedin.com/company/ciphers-community/)
 
 ## Upcoming Events
 
@@ -30,7 +33,7 @@ We are a passionate group of coding enthusiasts, innovation seekers, and startup
 
 
 ## Contribution Guidelines
-- 💬 Join the conversation in our [Google Group](mailto:ciphers_community@googlegroups.com) or [Discord](#) <https://discord.gg/aEDgyAWRjX>.
+- 💬 Join the conversation in our [Google Group](mailto:ciphers_community@googlegroups.com) or [Discord](https://discord.gg/aEDgyAWRjX).
 - 🚀 Contribute to our open-source projects and share your coding expertise.
 
 ## Let's Code, Connect, and Create together! 🚀✨
